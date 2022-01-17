@@ -16,7 +16,9 @@ Using html and bootstrap, I built a landing page for my website complete with a 
 
 * HTML
 
-* Styling is done with bootstrap
+* Bulk of styling is done with bootstrap
+
+* Custom styling done with css
 
 ## The website still needs...
 
